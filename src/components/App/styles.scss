@@ -1,0 +1,12 @@
+.results-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+
+  .video-details {
+    flex: 2;
+  }
+
+  .videos-list {
+    flex: 1;
+  }
+}
